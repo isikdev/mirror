@@ -1,0 +1,16 @@
+$red: #F0544F;
+$ff-Vietnam: "Be Vietnam Pro", sans-serif;
+.btn {
+    padding: 12px 22px;
+    border: 0;
+    outline: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.btn__order {
+    background-color: $red;
+    color: #fff;
+}
